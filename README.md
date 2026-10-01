@@ -6,4 +6,4 @@
 ---
 
 ### 🛡️ Certifications & Bootcamps
-* **Bootcamp Développeur Web** — *Nexa Digital School*
+* **Bootcamp Développeur Web (Bachelor 3)** — *Nexa Digital School*
